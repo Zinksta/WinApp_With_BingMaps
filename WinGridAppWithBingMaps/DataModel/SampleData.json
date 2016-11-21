@@ -1,0 +1,200 @@
+{
+  "Groups": [
+    {
+      "UniqueId": "Group-1",
+      "Title": "Accommodation",
+      "Subtitle": "Accommodation",
+      "ImagePath": "Assets/Accommodation.jpg",
+      "Description": "From the most luxurious suites complete with spa and city views to the simplest backpacker accommodation for the adventurous twenty-something, you're bound to find what you're looking for in Melbourne.",
+      "Items": [
+        {
+          "UniqueId": "Group-1-Item-1",
+          "Title": "Hilton Melbourne South Wharf",
+          "Subtitle": "Accommodation",
+          "ImagePath": "Assets/Hilton_South_Wharf.jpg",
+          "Phone": "03 9027 2000",
+          "Website": "http://www.hiltonmelbourne.com.au/",
+          "Description": "Hilton Melbourne South Wharf offers the heritage and expertise of the Hilton brand.",
+          "Content": "Set in the heart of one of Melbourne's newest lifestyle precincts of South Wharf, Hilton Melbourne South Wharf offers the heritage and expertise of the Hilton brand and the bold styling, intimate service and stylish boutique touches of a truly innovative, modern hotel.\n\nEach of the 396 rooms feature striking wood interiors complementing the floor-to-ceiling glass windows that capture the view of the city and the Yarra River. Every room is generously proportioned and includes a magnificent four-point bathroom and the latest technology, in-room entertainment and communication facilities. Guests staying in the hotel's suites have access to the executive lounge with an outdoor terrace that appears to float out onto the river and can be enjoyed during the day and at night.\n\nThe hotel's restaurant and bar, Dock 37, focuses on using high quality produce in the kitchen and passionate service on the floor to create a relaxed dining experience and inspired Australian cuisine in a dramatic and elegant setting. A show-stopping walk-through wine gantry, suspended above the bar, houses an exceptional cellar of over 450 vintages.\n\nContent: Hilton Melbourne South Wharf"
+        },
+        {
+          "UniqueId": "Group-1-Item-2",
+          "Title": "The Cullen",
+          "Subtitle": "Accommodation",
+          "ImagePath": "Assets/The_Cullen.jpg",
+          "Phone": "03 9098 1555",
+          "Website": "http://www.artserieshotels.com.au/cullen/",
+          "Description": "Daring and unique, The Cullen was the first in a series of three Melbourne luxury art inspired hotels. Each hotel named after and inspired by a famous Australian artist.",
+          "Content": "Daring and unique, The Cullen was the first in a series of three Melbourne luxury art inspired hotels. Each hotel named after and inspired by a famous Australian artist.\n\nThe Cullen features original artwork and prints by Australia's most fearless and exciting contemporary artist, Adam Cullen.\n\nOffering spectacular views of Melbourne city, ample parking, state of the art gymnasium and two exciting restaurants; Mediterranean Terrace Bar and Bistro with al fresco dining and Melbourne favourite Hu Tong Dumpling Bar.\n\nExperience culture with in-house art curator Jane O'Neill who provides a deeper insight into the works of Adam Cullen. Ornate Hair Salon will ensure you look five star fabulous just because, or be adventurous and hire a Kronan Bicycle or Smart Car and uncover Melbourne's hidden secrets.\n\nArt Series Hotels blend boutique style and five star comfort, to create a hotel experience not to be missed.\n\nEach Art Series Hotel is unique, taking design inspiration from one of Australia's artistic greats, whether it be living legend John Olsen, the Magical Charles Blackman or the controversially inclined Adam Cullen.\n\nExperience Art Series Hotels, The Cullen Hotel, The Olsen Hotel and The Blackman Hotel.\n\nBook directly via theblackman.com.au for best rate guarantee.\n\nContent: The Olsen"
+        },
+        {
+          "UniqueId": "Group-1-Item-3",
+          "Title": "Royce Hotel",
+          "Subtitle": "Accommodation",
+          "ImagePath": "Assets/Royce_Hotel.jpeg",
+          "Phone": "03 9677 9900",
+          "Website": "http://www.roycehotels.com.au/",
+          "Description": "The Royce Hotel is a five star designer hotel. Ideally located in Melbourne city between three stunning parklands. Royal Botanic Gardens, Fawkner Park and Albert Park Lake and golf course.",
+          "Content": "The Royce Hotel is a five star designer hotel. Ideally located in Melbourne city between three stunning parklands. Royal Botanic Gardens, Fawkner Park and Albert Park Lake and golf course.\n\nThe Royce Hotel is a short walk or tram ride to many of Melbourne's attractions, fashionable shopping districts and some of Melbourne's best restaurants are within close walking distance.\n\nThe Royce Hotel also boasts easy accessibility to Melbourne Park, home of the Australian Open and the Melbourne Cricket Ground. The Royce is only a 5 minute walk to the F1 Grand Prix track.\n\nThe Royce features modern accommodation rooms and suites with spacious bathrooms, some which include furnished balconies.\n\nOther features include an award winning restaurant, stylish lounge bar, business area, secretarial services, Wi-Fi internet, valet car parking available, gymnasium, 24 hour room service and reception and meeting and event facilities that cater for up to 300 people.\n\nExperience a retreat of luxury and comfort.\n\nContent: Royce Hotel"
+        },
+        {
+          "UniqueId": "Group-1-Item-4",
+          "Title": "Stamford Plaza Melbourne",
+          "Subtitle": "Accommodation",
+          "ImagePath": "Assets/Stamford_Plaza.JPG",
+          "Phone": "03 9659 1000",
+          "Website": "http://www.stamford.com.au/spm/",
+          "Description": "Ideally located at the 'Paris End' of little Collins the Stamford Plaza Melbourne offers a luxurious, welcoming home away from home for corporate and leisure travellers, with self contained spacious apartment-style one, two or three bedroom suites.",
+          "Content": "Ideally located at the 'Paris End' of little Collins the Stamford Plaza Melbourne offers a luxurious, welcoming home away from home for corporate and leisure travellers, with self contained spacious apartment-style one, two or three bedroom suites.\n\nStamford Plaza Melbourne is situated in the heart of cosmopolitan Melbourne, providing easy access to the bustling city, business district, shopping, theatre and restaurants.\n\nThis five star all-suite hotel comprises of 283 elegantly-appointed suites, each with a fully equipped kitchen, private ensuite bathrooms for each bedroom, high-speed internet connectivity, Harry's Restaurant & Bar, new gymnasium, heated indoor swimming pool, spa and sauna and business centre.\n\nStamford Plaza Melbourne also offers first class conferencing, wedding and event facilities with a fantastic team on-site to help create your perfect event.\n\nHarry's Restaurant is the place to start your day with a selection from the breakfast buffet, enjoy the many delicious choices on offer for lunch and dinner where only the finest fresh, seasonal local produce available.\n\nTake in the relaxed and comfortable surrounds of Harry's Bar anytime during the day, from great coffee made-to-order, an extensive wine list to the delights of some creative cocktails.\n\nStamford Plaza Melbourne look forward to welcoming you to the Stamford Plaza Melbourne where you will enjoy five star service and facilities, and enjoy every minute of your stay.\n\nContent: Stamford Plaza Melbourne"
+        }
+      ]
+    },
+    {
+      "UniqueId": "Group-2",
+      "Title": "Food & Wine",
+      "Subtitle": "Food & Wine",
+      "ImagePath": "Assets/food_wine.jpg",
+      "Description": "Experience Melbourne's mix of cultures in its myriad restaurants, cafes, bistros and bars. Whether you're after modern, traditional, exotic or homespun flavours. Melbourne's eclectic dining scene offers a startling array of the world's great cuisines, from popular favourites to the truly groundbreaking.\n\nShare a drink while snacking on high end tapas in a laneway eatery, take on a Szechuan chilli dish in Chinatown, or break out of the CBD and discover the city's specialist eating destinations, Richmond for Vietnamese, Carlton's 'Little Italy', Fitzroy for Spanish and Brunswick for Lebanese.",
+      "Items": [
+        {
+          "UniqueId": "Group-2-Item-1",
+          "Title": "Robert Burns Hotel",
+          "Subtitle": "Food & Wine",
+          "ImagePath": "Assets/robert-burns-hotel.jpg",
+          "Phone": "03 9417 2233",
+          "Website": "http://www.robertburnshotel.com.au/",
+          "Description": "Known as the Robbie Burns by locals, Collingwood's Robert Burns Hotel may not sound like the obvious choice for an authentic Spanish meal. But the the Scottish name belies the delicious tapas and traditional Spanish dishes that have fuelled this pub since 1984.",
+          "Content": "Known as the Robbie Burns by locals, Collingwood's Robert Burns Hotel may not sound like the obvious choice for an authentic Spanish meal. But the the Scottish name belies the delicious tapas and traditional Spanish dishes that have fuelled this pub since 1984. Hit the 'tapas only' front bar or delve deeper into Chef Ivan Saiz's classical Spanish menu in the main dining room. Includes gluten-free and vegetarian dishes for those with special requirements.\n\nContent: Tourism Victoria"
+        },
+        {
+          "UniqueId": "Group-2-Item-2",
+          "Title": "Vue de Monde",
+          "Subtitle": "Food & Wine",
+          "ImagePath": "Assets/vue-de-monde.jpg",
+          "Phone": "03 9691 3888",
+          "Website": "http://www.vuedemonde.com.au/",
+          "Description": "When you've got three chef's hats from The Age Good Food Guide and you sit at number nine in the Australian Gourmet Traveller restaurant awards.",
+          "Content": "When you've got three chef's hats from The Age Good Food Guide and you sit at number nine in the Australian Gourmet Traveller restaurant awards, you'd think there wouldn't be much left to strive for. Not so for Shannon Bennett. Always working to perfect and innovate, Vue De Monde's reputation for creative cuisine matches their lofty position on level 55 of the Rialto tower.\n\nContent: Tourism Victoria"
+        },
+        {
+          "UniqueId": "Group-2-Item-3",
+          "Title": "Banoi",
+          "Subtitle": "Food & Wine",
+          "ImagePath": "Assets/banoi.jpg",
+          "Phone": "03 8080 9699",
+          "Website": "http://www.banoi.com.au/",
+          "Description": "Discover this little piece of Saigon tucked away in the Docklands. Combining the fresh and vibrant flavours of Vietnamese street food with a slick, contemporary interior.",
+          "Content": "Discover this little piece of Saigon tucked away in the Docklands. Combining the fresh and vibrant flavours of Vietnamese street food with a slick, contemporary interior, Banoi is a welcome new face in the burgeoning Docklands district. Expect market classics like rice paper rolls, banh xeo savoury crepes, vermicelli noodle salads and hearty pho. Need a Vietnamese-style caffeine boost? Charge up with the vietnamese iced coffee.\n\nContent: Tourism Victoria"
+        },
+        {
+          "UniqueId": "Group-2-Item-4",
+          "Title": "Lily Blacks",
+          "Subtitle": "Food & Wine",
+          "ImagePath": "Assets/lily_blacks.jpg",
+          "Phone": "03 9654 4887",
+          "Website": "http://www.lilyblacks.com.au/",
+          "Description": "Recreate the prestige of the golden era of cocktails with a decidedly modern twist in this Meyers Place drinking den, where spirits are sourced from far and wide, the crystal clear ice is cut by hand, and the collection of aromatic bitters is legendary.",
+          "Content": "Recreate the prestige of the golden era of cocktails with a decidedly modern twist in this Meyers Place drinking den, where spirits are sourced from far and wide, the crystal clear ice is cut by hand, and the collection of aromatic bitters is legendary. Late night closing every day of the week means finishing the night with a cocktail at Lily's isn't just a possibility, it's inevitable.\n\nContent: Tourism Victoria"
+        }
+      ]
+    },
+    {
+      "UniqueId": "Group-3",
+      "Title": "Shopping",
+      "Subtitle": "Shopping",
+      "ImagePath": "Assets/shopping.jpg",
+      "Description": "Shopping in Melbourne always comes with added extras, with laneway discoveries and cafe culture as much a part of the experience as the loot from local designers and the best of international brands.\n\nEver-evolving shopping choices make it possible to create a different shopping spree every time you venture out, whether you're after high fashion or fine art, jewellery or accessories, homewares or stationery. The city's myriad laneways and arcades harbour untold gems, inner city precincts spoil you for choice, while department stores and shopping centres continue to raise the bar.\n\nThe city's passion for fashion is a serious matter, a fact not overlooked by international retail giants looking to establish Australian outposts, and local designers keen on getting a strong start.",
+      "Items": [
+        {
+          "UniqueId": "Group-3-Item-1",
+          "Title": "Dinosaur Designs",
+          "Subtitle": "Shopping",
+          "ImagePath": "Assets/dinosaur_designs.jpg",
+          "Phone": "03 9827 2600",
+          "Website": "http://www.dinosaurdesigns.com.au/",
+          "Description": "Dinosaur's necklaces, rings and chunky Flintstones-style bangles rank among the best jewellery made from resin, silver, glass and ceramic in the world. This South Yarra boutique also showcases their move into homewares, with many of the designs inspired by nature itself.",
+          "Content": "Dinosaur's necklaces, rings and chunky Flintstones-style bangles rank among the best jewellery made from resin, silver, glass and ceramic in the world. This South Yarra boutique also showcases their move into homewares, with many of the designs inspired by nature itself.\n\nContent: Tourism Victoria"
+        },
+        {
+          "UniqueId": "Group-3-Item-2",
+          "Title": "Third Drawer Down",
+          "Subtitle": "Shopping",
+          "ImagePath": "Assets/third_drawer_down.jpg",
+          "Phone": "03 9534 4088",
+          "Website": "https://www.thirddrawerdown.com/",
+          "Description": "This museum shop (without a museum) sells artful oddities at amazingly affordable prices.",
+          "Content": "This museum shop (without a museum) sells artful oddities at amazingly affordable prices. Browse the drawers for limited-edition teatowel art, decal sets, hard-to-find journals and heaps of objects you won't find anywhere else. Except for MoMA and the Tate Modern (Third Drawer Down stocks there too).\n\nContent: Tourism Victoria"
+        },
+        {
+          "UniqueId": "Group-3-Item-3",
+          "Title": "Alice Edgeley",
+          "Subtitle": "Shopping",
+          "ImagePath": "Assets/alice_edgeley.jpg",
+          "Phone": "03 9417 4513",
+          "Website": "http://www.edgeley.com.au/",
+          "Description": "Peruse the biannual collections, buy off the rack or commission custom pieces from Alice Edgeley, a Melbourne designer whose designs walk the tightrope between high glamour and practicality, and elegance and kitsch.",
+          "Content": "Peruse the biannual collections, buy off the rack or commission custom pieces from Alice Edgeley, a Melbourne designer whose designs walk the tightrope between high glamour and practicality, and elegance and kitsch. Edgely has a passion for daily sartorial finesses and her eponymous shop serves as retail space, design studio, fitting room and inspiration haven.\n\nContent: Tourism Victoria"
+        },
+        {
+          "UniqueId": "Group-3-Item-4",
+          "Title": "Emporium Melbourne",
+          "Subtitle": "Shopping",
+          "ImagePath": "Assets/emporium.jpg",
+          "Phone": "03 8609 8221",
+          "Website": "http://www.emporiummelbourne.com.au/",
+          "Description": "Be assured of the best of the best at Emporium Melbourne, the see-it-to-believe-it, one-stop, super stylish, cutting edge shopping mecca.",
+          "Content": "Be assured of the best of the best at Emporium Melbourne, the see-it-to-believe-it, one-stop, super stylish, cutting edge shopping mecca. Emporium Melbourne is home to a veritable shopping bag of first-to-Australia brands and sleek and shiny Melbourne flagship stores, plus a food and drink stops that redefine the very notion of shopping sustenance. On your marks, get set, shop!\n\nCheck out the international fashion goliaths that have chosen to make Emporium Melbourne their first port of call in Australia: Need to add bullet points in a textblock"
+        }
+      ]
+    },
+    {
+      "UniqueId": "Group-4",
+      "Title": "Sight Seeing",
+      "Subtitle": "Sight Seeing",
+      "ImagePath": "Assets/sightseeing.jpg",
+      "Description": "Dive in to discover the distinct fortes and flavours of Melbourne destinations.\n\nSpend some time in the city centre and you'll discover it's neatly divided into little pockets for you to explore.\n\nJust a tram ride away, the eclectic neighbourhoods on the city fringe offer endless possibilities.\n\nSt Kilda Road means galleries and gardens, while neighbouring Yarra Precinct and Docklands deliver waterside views by the boatload. Take your beach towel (or yacht) to bayside St Kilda, Port Melbourne and South Melbourne, and go west for more fabulous food and beaches.\n\nContent: VisitMelbourne",
+      "Items": [
+        {
+          "UniqueId": "Group-4-Item-1",
+          "Title": "Melbourne's Tall Ship Story",
+          "Subtitle": "Sight Seeing",
+          "ImagePath": "Assets/Polly_ship.JPG",
+          "Phone": "03 9656 9804",
+          "Website": "http://www.pollywoodside.com.au/",
+          "Description": "Launched in Belfast in 1885, the Polly Woodside sailed 1.5 million kilometres around the globe.",
+          "Content": "Launched in Belfast in 1885, the Polly Woodside sailed 1.5 million kilometres around the globe. Located in the heart of Melbourne's South Wharf precinct she is a tangible reminder of Australia's rich maritime history and is one of Melbourne's most iconic attractions.\n\nVisitors can take a guided tour of the ship, including below the decks, view artefacts in the award winning interactive gallery and watch a fascinating short film about life onboard the ship in the theatrette.\n\nWith an interactive gallery and an exciting program of events, this enchanting tall ship provides an engaging experience for all.\n\nContent: Polly Woodside, Melbourne's Tall Ship Story"
+        },
+        {
+          "UniqueId": "Group-4-Item-2",
+          "Title": "Melbourne Star Observation Wheel",
+          "Subtitle": "Sight Seeing",
+          "ImagePath": "Assets/StarWheel.jpg",
+          "Phone": "03 8688 9688",
+          "Website": "http://www.melbournestar.com/",
+          "Description": "Take flight through the Melbourne skies and see the city from a different perspective. The Melbourne Star experience is your unique introduction to the colour, history, and culture of our city and beyond.",
+          "Content": "Take flight through the Melbourne skies and see the city from a different perspective. The Melbourne Star experience is your unique introduction to the colour, history, and culture of our city and beyond.\n\nWhether you know and love Melbourne, or are a first time visitor to our cultural capital, it's a spectacular way to get your bearings. Taking flight with the Melbourne Star gives you a totally new outlook, where the unique attractions of inner Melbourne and the Bay unroll before you: lush gardens, award winning architecture, sports stadiums, and cultural precincts, all waiting to be discovered.\n\nMelbourne Star's 40 storey high structure provides uninterrupted 360 degree views of Victoria. Outstanding outlooks across all four points of the compass, from the Dandenongs to the You Yangs, to Mount Macedon and nearby Port Phillip Bay, invite curiosity and exploration.\n\nAs the largest solid steel construction in the world, the Melbourne Star is an engineering wonder. Its solid construction is absolutely one of a kind in the world, and its 7 pointed star design, echoing the 7 stars of the Australian flag, is an iconic feature of the Melbourne skyline.\n\nContent: Melbourne Star Observation Wheel"
+        },
+        {
+          "UniqueId": "Group-4-Item-3",
+          "Title": "Melbourne Docklands Art Journey",
+          "Subtitle": "Sight Seeing",
+          "ImagePath": "Assets/Art_Journey.jpg",
+          "Phone": "03 9658 9658",
+          "Website": "http://www.places.vic.gov.au/precincts-and-development/docklands/",
+          "Description": "Public art is more than just an aesthetic afterthought but an integral part of all new commercial and residential Docklands developments.",
+          "Content": "Public art is more than just an aesthetic afterthought but an integral part of all new commercial and residential Docklands developments. Some artists have drawn inspiration from the area's industrial past as an industrial port, while others have created works which reflect the futuristic nature of the precinct. Either way, you'll find art everywhere, maybe as a freestanding structure, or embedded in a building's facade. From the serpentine Webb Bridge to a precariously perched bovine (called not at all cryptically: Cow Up a Tree) art at Docklands can be appreciated purposefully, or incidentally as part of your daily routine.\n\nContent: VisitMelbourne"
+        },
+        {
+          "UniqueId": "Group-4-Item-4",
+          "Title": "Chinese Museum",
+          "Subtitle": "Sight Seeing",
+          "ImagePath": "Assets/chinese_museum.JPG",
+          "Phone": "03 9662 2888",
+          "Website": "http://chinesemuseum.com.au/",
+          "Description": "A living part of Melbourne's modern Chinatown, the Chinese Museum documents, preserves and displays the history of Chinese Immigration to Australia.",
+          "Content": "A living part of Melbourne's modern Chinatown, the Chinese Museum documents, preserves and displays the history of Chinese Immigration to Australia.\n\nAn exciting range of changing exhibitions and heritage tours are used to illustrate the past, culture and values of Australia's Chinese community.\n\nThe Museum is home to Dai Loong and the Millennium Dragon, the largest Chinese dragon in the world.\n\nThe Chinatown Visitor Centre provides an orientation to Melbourne's Chinatown. You can take a self-guided tour of Chinatown or a personally guided Chinatown tour for groups of more than twelve people.\n\nChinatown extends along Little Bourke Street between Swanston and Exhibition Streets. The Chinatown Visitor Centre features displays of historic streetscapes of Chinatown dating back to the 1850s. The museum shop has an exotic range of Chinese souvenirs, homewares and gifts.\n\nContent: Chinese Museum"
+        }
+      ]
+    }
+  ]
+}

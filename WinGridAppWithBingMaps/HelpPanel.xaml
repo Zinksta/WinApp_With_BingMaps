@@ -1,0 +1,50 @@
+﻿<SettingsFlyout
+    x:Class="WinGridAppWithBingMaps.HelpPanel"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WinGridAppWithBingMaps"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="Help"
+    d:DesignWidth="346"
+    Width="346">
+
+    <SettingsFlyout.Resources>
+        <Style x:Key="SettingsFlyoutSectionStyle" TargetType="StackPanel">
+            <Setter Property="Margin" Value="0,0,0,39"/>
+        </Style>
+    </SettingsFlyout.Resources>
+
+    <!-- This stack panel acts as a root panel for vertical layout of the content sections. -->
+    <StackPanel VerticalAlignment="Stretch" HorizontalAlignment="Stretch" >
+
+        <!-- The stack panels below define individual content sections. -->
+
+        <!-- Content Section 1-->
+        <StackPanel Style="{StaticResource SettingsFlyoutSectionStyle}">
+            <!-- Section 1 Header -->
+            <TextBlock Style="{StaticResource SubtitleTextBlockStyle}" Margin="5" TextWrapping="Wrap">
+                <TextBlock.Text>
+                    Choose a Topic.
+                </TextBlock.Text>
+            </TextBlock>
+            <!-- Section 1 Menu -->
+            <Button x:Name="btnTopics" Content="Help Topics" Margin="5">
+                <Button.Flyout>
+                    <MenuFlyout>
+                        <MenuFlyoutItem x:Uid="Directions" Click="MenuFlyoutItem_Dir">Directions</MenuFlyoutItem>
+                        <MenuFlyoutItem x:Uid="Favourites" Click="MenuFlyoutItem_Fav">Favourites</MenuFlyoutItem>
+                    </MenuFlyout>
+                </Button.Flyout>
+            </Button>
+            <!-- Section 1 Textblock for information based on button flyout selection -->
+            <TextBlock x:Name="txtInfo" Width="250" Height="500" 
+                       TextWrapping="WrapWholeWords" Margin="5"
+                       Style="{StaticResource BodyTextBlockStyle}"/>
+        </StackPanel>
+
+        <!-- Define more Content Sections below as necessary. -->
+
+    </StackPanel>
+</SettingsFlyout>
